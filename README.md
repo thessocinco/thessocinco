@@ -36,6 +36,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DB_Browser_for_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 <p align="center">
 ## 📂 Portfolio
