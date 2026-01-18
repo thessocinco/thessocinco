@@ -1,5 +1,5 @@
 <p align="center">
-# Hello, I'm Engr Thesso! 👋
+# Hello, I'm Engr. Thesso! 👋
 </p>
 <p align="center">
 **Android Developer | Java/Kotlin | GPS & SMS Solutions | Embedded Systems & Electronics**
