@@ -6,7 +6,7 @@
 </p>
 <hr style="border:0.2px solid #ddd;">
 <p align="center">
-**💻 Tech Stack**
+**💻 TECH STACK**
 </p>
 
 <p align="center">
