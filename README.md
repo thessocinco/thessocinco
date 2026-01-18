@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-### Other Languages & Tools
+### Other Tools
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
