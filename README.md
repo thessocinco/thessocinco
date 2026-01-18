@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="black-asta-black-3840x2160-22972.jpg" alt="Black Clover Asta Banner" width="100%" />
+  <img src="https://github.com/thessocinco/github-wallpapers/blob/cdd1b6aa6fc5af0af852df98e4296b1a93759c8c/black-asta-black-3840x2160-22972.jpg" alt="Black Clover Asta Banner" width="100%" />
 </p>
 <p align="center">
 # Hello, I'm Engr. Thesso! 👋
