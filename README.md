@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+# Hello, I'm Engr Thesso! 👋
+</p>
+<p align="center">
+**Android Developer | Java/Kotlin | GPS & SMS Solutions | Embedded Systems & Electronics**
+</p>
 
-<!--
-**thessocinco/thessocinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+## 💻 Tech Stack
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+### Mobile & Android
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+### Embedded & Electronics
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+<p align="center">
+### Other Languages & Tools
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+## 📂 Portfolio
+</p>
+<p align="center">
+[🟢 Mars Collection App](https://github.com/thessocinco/mars-collection-app) – Android field app for cash/check collections
+</p>
+<p align="center">
+[🟢 Mars Syntax App](https://github.com/thessocinco/mars-syntax-app) – Booking & van selling operations
+</p>
