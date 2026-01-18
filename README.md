@@ -44,8 +44,8 @@
 ## 📂 Portfolio
 </p>
 <p align="center">
-[🟢 Mars Collection App](https://github.com/thessocinco/mars-collection-app) – Android field app for cash/check collections
+Mars Collection App](https://github.com/thessocinco/mars-collection-app) – Android field app for cash/check collections
 </p>
 <p align="center">
-[🟢 Mars Syntax App](https://github.com/thessocinco/mars-syntax-app) – Booking & van selling operations
+Mars Syntax App](https://github.com/thessocinco/mars-syntax-app) – Booking & van selling operations
 </p>
