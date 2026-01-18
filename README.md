@@ -4,7 +4,7 @@
 <p align="center">
 **Android Developer | Java/Kotlin | GPS & SMS Solutions | Embedded Systems & Electronics**
 </p>
-<hr style="border:0.2px solid #ddd;">
+
 <p align="center">
 **💻 TECH STACK**
 </p>
